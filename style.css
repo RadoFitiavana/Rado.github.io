@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+.gauche {
+    background-color: yellow;
+    color: white;
+}
+
+.droite {
+    background-color: blue;
+    color: wheat;
+}
